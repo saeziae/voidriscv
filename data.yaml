@@ -1,8 +1,10 @@
 llvm19:
 0ad-data:
   status: MISSING
+  notes: no cross
 0ad:
   status: MISSING
+  notes: no cross
 2048-qt:
 2bwm:
 3mux:
@@ -13,9 +15,8 @@ llvm19:
 6tunnel:
 7kaa:
 7zip:
-  status: MISSING
 9base:
-  status: MISSING
+  status: MISSING, P, NT
 9menu:
 9mount:
 ADMS-qucs:
@@ -32,7 +33,8 @@ Brainfunk:
 CImg:
 CKAN:
 CLion:
-  status: MISSING
+  status: BROKEN
+  note: propertary software
 CPU-X:
 CSFML:
 CUnit:
@@ -227,7 +229,8 @@ ReDoomEd.app:
 ReText:
 Rocket.Chat-Desktop:
 RubyMine:
-  status: MISSING
+  status: BROKEN
+  note: propertary software
 RyzenAdj:
 SDL:
 SDL2:
@@ -288,7 +291,8 @@ Vulkan-Tools:
 Vulkan-ValidationLayers:
 Waybar:
 WebStorm:
-  status: MISSING
+  status: BROKEN
+  note: propertary software
 WindowMaker:
 WiringPi:
 WoeUSB-cli:
@@ -3171,8 +3175,7 @@ keepalived:
 keepassxc:
 kemoticons:
 kernel-libc-headers:
-  status: MISSING
-  notes: patched by saeziae
+  status: MISSING, P
 kernelshark:
 kexec-tools:
 kexi:
@@ -4222,8 +4225,7 @@ linux6.1:
   status: MISSING
 linux6.10:
 linux6.11:
-  status: MISSING
-  notes: patched by saeziae
+  status: MISSING, P
 linux6.6:
 linuxwave:
 liquid-dsp:
@@ -4542,8 +4544,7 @@ merkaartor:
 merkuro:
 mesa-demos:
 mesa:
-  status: MISSING
-  notes: patched by saeziae
+  status: MISSING, P
 meson-cmake-wrapper:
 meson:
 messagelib:
@@ -9009,12 +9010,14 @@ xf86-video-mach64:
 xf86-video-mga:
 xf86-video-nouveau:
 xf86-video-openchrome:
-  status: MISSING
+  status: NA
 xf86-video-qxl:
 xf86-video-r128:
 xf86-video-sisusb:
 xf86-video-vesa:
+  status: NA
 xf86-video-vmware:
+  status: NA
 xfburn:
 xfce-polkit:
 xfce4-alsa-plugin:
@@ -9139,8 +9142,7 @@ xorg-server-xwayland:
 xorg-server:
 xorg-util-macros:
 xorg-video-drivers:
-  status: MISSING
-  notes: patched by saeziae
+  status: MISSING, P
 xorg:
 xorgproto:
 xoris:
