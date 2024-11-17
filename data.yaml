@@ -33,8 +33,7 @@ Brainfunk:
 CImg:
 CKAN:
 CLion:
-  status: BROKEN
-  note: propertary software
+  status: PROPERTARY
 CPU-X:
 CSFML:
 CUnit:
@@ -229,8 +228,7 @@ ReDoomEd.app:
 ReText:
 Rocket.Chat-Desktop:
 RubyMine:
-  status: BROKEN
-  note: propertary software
+  status: PROPERTARY
 RyzenAdj:
 SDL:
 SDL2:
@@ -291,8 +289,7 @@ Vulkan-Tools:
 Vulkan-ValidationLayers:
 Waybar:
 WebStorm:
-  status: BROKEN
-  note: propertary software
+  status: PROPERTARY
 WindowMaker:
 WiringPi:
 WoeUSB-cli:
